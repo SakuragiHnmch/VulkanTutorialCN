@@ -4,7 +4,50 @@
 
 # 翻译完成度
 
-<!-- TODO -->
+- [ ] Introduction
+- [ ] Overview
+- [ ] Development Environment
+- [ ] Drawing A Triangle
+  - [ ] Setup
+    - [ ] Base Code
+    - [ ] Instance
+    - [ ] Validation Layers
+    - [ ] Physical Devices And Queue Families
+    - [ ] Logical Device And Queues
+  - [ ] Presentation
+    - [ ] Window Surface
+    - [ ] Swap Chain
+    - [ ] Image Views
+  - [ ] Graphics Pipeline Basics
+    - [ ] Introduction
+    - [ ] Shader Modules
+    - [ ] Fixed Function
+    - [ ] Render Passes
+    - [ ] Conclusion
+  - [ ] Drawing
+    - [ ] Framebuffers
+    - [ ] Command Buffers
+    - [ ] Rendering And Presentation
+  - [ ] Swap Chain Recreation
+- [ ] Vertex Buffers
+  - [ ] Vertex Input Description
+  - [ ] Vertex Buffer Creation
+  - [ ] Staging Buffer
+  - [ ] Index Buffer
+- [ ] Uniform Buffers
+  - [ ] Descriptor Layout And Buffer
+  - [ ] Descriptor Pool And Sets
+- [ ] Texture Mapping
+  - [ ] Images
+  - [ ] Image View And Sampler
+  - [ ] Combined Image Sampler
+- [ ] Depth Buffering
+- [ ] Loading Models
+- [ ] Generating Mipmaps
+- [ ] Multisampling
+- [ ] FAQ
+- [ ] Privacy Policy
+- [ ] Other
 
 # 构建与部署
 
