@@ -29,7 +29,7 @@
         "files": [ "README.md", ".gitignore" ],
         "folders": []
     },
-    "languages": { "zh": "Chinese" },
-    "language": "zh",
+    "languages": { "en": "English" },
+    "language": "en",
     "processor": "VulkanLinkProcessor"
 }
