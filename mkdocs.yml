@@ -11,3 +11,13 @@ theme:
 # GitHub
 repo_url: https://github.com/VulkanTutorialCN/VulkanTutorialCN
 repo_name: VulkanTutorialCN
+
+# Navs
+nav:
+  - '序言': 'index.md'
+  - '介绍': '00-introduction.md'
+  - '概览': '01-overview.md'
+  - '开发环境配置': '02-development-environment.md'
+  - '第一个三角形':
+    - '初始化':
+      - '基础代码': '03-drawing-a-triangle/03-01-setup/03-01-01-base-code.md'
